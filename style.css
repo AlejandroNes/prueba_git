@@ -8,3 +8,16 @@ h2{
 p{
     color: olivedrab;
 }
+a{
+color: purple;
+text-decoration: none;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+padding: 3px;
+border: 1px solid purple;
+border-radius: 4px;
+transition: all ease 1s;
+}
+a:hover{
+    background-color: purple;
+    color: white;
+}
