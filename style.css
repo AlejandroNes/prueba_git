@@ -7,6 +7,9 @@ h2{
 }
 p{
     color: olivedrab;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-shadow: 2px 2px 3px gray;
 }
 a{
 color: purple;
